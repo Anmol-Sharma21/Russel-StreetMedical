@@ -154,6 +154,7 @@ body{
     display: flex;
     justify-content: center ;
     align-items: center;
+    background-color:#ffe76d;
 }
 .profile{
     display: flex;
